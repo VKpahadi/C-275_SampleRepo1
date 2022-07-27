@@ -7,3 +7,6 @@ This is a simple text file created just to learn the use of Github.
 This is the first time I am making changes in the text file after commiting for the first time 
 
 This is the third time I am making changes in the file, just to revise the steps for commiting.
+
+
+This is the fourth time I am making changing in the file. 
