@@ -3,3 +3,5 @@ This is a simple text file created just to learn the use of Github.
 
 1. I like Programming
 2. Python is my favourite programming language.
+
+This is the first time I am making changes in the text file after commiting for the first time 
